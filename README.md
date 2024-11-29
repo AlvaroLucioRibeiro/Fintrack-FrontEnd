@@ -1,5 +1,6 @@
 ![Build Status](https://github.com/LauraPivoto/projeto-c214/actions/workflows/flutter.yml/badge.svg)
 ![Flutter](https://img.shields.io/badge/language-Flutter-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)
 
 # Projeto C214
 
